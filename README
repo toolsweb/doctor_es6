@@ -1,0 +1,9 @@
+Install dependecencies
+npm i
+Show package.json in script, you can run :
+npm run webpack for développement
+
+2 choices 
+npm run start
+
+or clone repositorie in dir var/www/ localhost:80 apaches2 server

@@ -1,0 +1,40 @@
+
+{
+    "data" : [
+        { 
+            "name" : "head",
+            "title" : "head :",
+            "description" : "head"
+        },
+        {
+            "name" : "shoulder",
+            "title" : "shoulder :",
+            "description" : "L'épaule (nom féminin) est la région morphologique se situant à la jonction du tronc avec le membre supérieur. Elle comporte plusieurs articulations qui concourent à en faire le complexe articulaire le plus mobile du corps humain. Elle permet d'orienter le membre supérieur dans l'espace, autorisant en particulier son extrémité effectrice, la main, à assurer ses rôles de préhension et de communication avec l'environnement situé à sa portée."
+        },
+        {
+            "name" : "arms",
+            "title" : "arms :",
+            "description" : "arms"
+        },
+        {
+            "name" : "hand",
+            "title" : "hand :",
+            "description" : "hand"
+        },
+        {
+            "name" : "hip",
+            "title" : "hip :",
+            "description" : "hip"
+        },
+        {
+            "name" : "leg",
+            "title" : "leg :",
+            "description" : "leg"
+        },
+        {
+            "name" : "foot",
+            "title" : "foot :",
+            "description" : "foot"
+        }
+    ]
+}
